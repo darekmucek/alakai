@@ -1,0 +1,2 @@
+# alakai
+Alakai Hotel Wordpress
